@@ -8,6 +8,14 @@
  Journey purpose of driver, vehicle conditins help to identify the risk associated with insuring the particular
  driver or car. By proper analysing the data they can predict likelihood of accidents and severity.
 
+ ### Problem Statement:
+ This is a multi-class classification problem where we are predicting the severity of accident :
+
+
+ - Slight Injury
+  - Fatal Injury
+  - Serious Injury
+
  
  ### Data Source
  https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data
